@@ -5,3 +5,5 @@ Hi!
 I#m Kerstin and I'd like to learn coding and everything connected to that
 
 REadme ist updated
+
+Updated again and added annother file
